@@ -18,3 +18,5 @@ Now i earn a living by repairing computers and developing websites. I started to
 <br>Software engineer at LLC Drozd.T.A
 # Education #
 2014-2018, <br>Francisk Skorina Gomel State University
+# English #
+A1 (Elementary)
