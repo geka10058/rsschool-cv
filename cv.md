@@ -8,7 +8,7 @@
 # About me: #
 Now i earn a living by repairing computers and developing websites. I started to study android development because I want to learn something completely new for myself and do it on a professional level
 # Skills: #
-`Arduino C` `C++  basic` `Java basic` `HTML` `SCC` `CMS Tilda` `CMS Wordpress` 
+`Arduino C` `C++  basic` `Java basic` `HTML` `CMS Tilda` `CMS Wordpress` 
 # Experience #
 * Feb 2021 - Present 
 <br>Software engineer & computer repair engineer at LLC Belsteelgroup
